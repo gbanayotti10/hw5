@@ -1,0 +1,29 @@
+.child1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.company-filter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.month-filter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.chart {
+  margin-top: 20px;
+}
